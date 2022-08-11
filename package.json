@@ -1,12 +1,13 @@
 {
-  "name": "mqtt",
+  "name": "@jc-lab/mqtt",
   "description": "A library for the MQTT protocol",
   "version": "4.3.7",
   "contributors": [
     "Adam Rudd <adamvrr@gmail.com>",
     "Matteo Collina <matteo.collina@gmail.com> (https://github.com/mcollina)",
     "Siarhei Buntsevich <scarry0506@gmail.com> (https://github.com/scarry1992)",
-    "Yoseph Maguire <yomaguir@microsoft.com> (https://github.com/YoDaMa)"
+    "Yoseph Maguire <yomaguir@microsoft.com> (https://github.com/YoDaMa)",
+    "Joseph Lee <joseph@jc-lab.net> (https://github.com/jclab-joseph)"
   ],
   "keywords": [
     "mqtt",
@@ -17,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mqttjs/MQTT.js.git"
+    "url": "git://github.com/jclab-joseph/MQTT.js.git"
   },
   "main": "mqtt.js",
   "types": "types/index.d.ts",
